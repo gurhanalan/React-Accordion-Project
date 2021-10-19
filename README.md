@@ -1,20 +1,48 @@
-#### Idea
+# React - Accordion Project
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+[This project](https://gurhanalan.github.io/React-Accordion-Project/) is a accordion component. This component is build with using React.
 
-![](./idea.png);
+## Table of contents
 
-#### React Icons
+- [React - Accordion Project](#react---accordion-project)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshots](#screenshots)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
 
-[react icons](https://react-icons.github.io/react-icons/)
+## Overview
 
-```
-npm install react-icons --save
-```
+### The challenge
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+Users should be able to:
+
+<!-- -   View the optimal layout for the app depending on their device's screen size -->
+
+-   Read more or less by clicking the toggle buttons
+
+<!-- -   Change the position, color, shape and size of a box by click the control buttons. -->
+
+### Screenshots
+
+<!-- <img  src="./public/screenshot/johnportfolio1.jpg" alt="html" height=400 width=500><br/> -->
+
+<img  src="./public/screenshots/reactaccordion2.jpg" alt="html"  width=500><br/>
+<img  src="./public/screenshots/reactaccordion1.jpg" alt="html"  width=500><br/>
+
+<!-- ![](img/csspropertychanger.jpg) -->
+
+### Links
+
+-   Solution URL: [Live Website](https://gurhanalan.github.io/React-Accordion-Project/)
+
+## My process
+
+### Built with
+
+-   React
+-   Functional Components
+-   CSS
+-   React Hooks
